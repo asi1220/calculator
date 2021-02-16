@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-server
+  vmImage: UbuntuServer
 
 steps:
 - task: NodeTool@0
